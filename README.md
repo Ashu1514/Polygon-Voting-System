@@ -1,2 +1,2 @@
 # Polygon-Voting-System-
-Voting system backed by polygon matic blockchain.
+Frontend of Voting system backed by polygon matic blockchain.
